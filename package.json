@@ -1,0 +1,26 @@
+{
+  "name": "gruntdemo",
+  "version": "0.0.0",
+  "description": "Grunt demonstration project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/javaScript-io/gruntdemo.git"
+  },
+  "author": "Howard Engelhart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javaScript-io/gruntdemo/issues"
+  },
+  "homepage": "https://github.com/javaScript-io/gruntdemo",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "matchdep": "~0.3.0"
+  }
+}
